@@ -1,0 +1,5 @@
+# Local README preview (not part of the profile)
+.preview.html
+
+# Snake action build output
+dist/
