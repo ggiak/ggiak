@@ -3,3 +3,6 @@
 
 # Snake action build output
 dist/
+
+# OMC operational state
+.omc/
