@@ -44,9 +44,20 @@ I'm a software engineer based in **Greece** 🇬🇷, working on energy analytic
 
 ## 📊 GitHub stats
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ggiak&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ggiak&theme=github" alt="Giorgos's GitHub profile summary" />
+</picture>
+
 <p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ggiak&show_icons=true&hide_border=true" alt="Giorgos's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ggiak&layout=compact&hide_border=true" alt="Top languages" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ggiak&theme=github_dark" />
+    <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ggiak&theme=github" alt="GitHub stats" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ggiak&theme=github_dark" />
+    <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ggiak&theme=github" alt="Most used languages" />
+  </picture>
 </p>
 
 <img src="https://streak-stats.demolab.com/?user=ggiak&hide_border=true" alt="GitHub streak" />
