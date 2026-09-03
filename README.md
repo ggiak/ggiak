@@ -31,11 +31,11 @@ I'm a software engineer based in **Greece** 🇬🇷, working on energy analytic
 ## 📈 Recent activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#12417](https://github.com/diegosouzapw/OmniRoute/issues/12417#issuecomment-5512231827) in [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute)
-2. 🗣 Commented on [#12344](https://github.com/diegosouzapw/OmniRoute/pull/12344#issuecomment-5511862101) in [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute)
-3. 💪 Opened PR [#12402](https://github.com/diegosouzapw/OmniRoute/pull/12402) in [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute)
-4. 💪 Opened PR [#12351](https://github.com/diegosouzapw/OmniRoute/pull/12351) in [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute)
-5. 💪 Opened PR [#12350](https://github.com/diegosouzapw/OmniRoute/pull/12350) in [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute)
+1. 💪 Opened PR [#1](https://github.com/prappo/wp-eloquent/pull/1) in [prappo/wp-eloquent](https://github.com/prappo/wp-eloquent)
+2. 🗣 Commented on [#12417](https://github.com/diegosouzapw/OmniRoute/issues/12417#issuecomment-5512231827) in [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute)
+3. 🗣 Commented on [#12344](https://github.com/diegosouzapw/OmniRoute/pull/12344#issuecomment-5511862101) in [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute)
+4. 💪 Opened PR [#12402](https://github.com/diegosouzapw/OmniRoute/pull/12402) in [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute)
+5. 💪 Opened PR [#12351](https://github.com/diegosouzapw/OmniRoute/pull/12351) in [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute)
 <!--END_SECTION:activity-->
 
 ## 📦 Things I've built
