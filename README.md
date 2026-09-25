@@ -35,7 +35,7 @@ I'm a software engineer based in **Greece** 🇬🇷, working on energy analytic
 2. 🗣 Commented on [#14546](https://github.com/diegosouzapw/OmniRoute/pull/14546#issuecomment-5782933086) in [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute)
 3. 🗣 Commented on [#14546](https://github.com/diegosouzapw/OmniRoute/pull/14546#issuecomment-5782162048) in [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute)
 4. 💪 Opened PR [#14546](https://github.com/diegosouzapw/OmniRoute/pull/14546) in [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute)
-5. ❗ Opened issue [#17](https://github.com/imghaste/WP-Plugin/issues/17) in [imghaste/WP-Plugin](https://github.com/imghaste/WP-Plugin)
+5. 🗣 Commented on [#12970](https://github.com/diegosouzapw/OmniRoute/pull/12970#issuecomment-5584208592) in [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute)
 <!--END_SECTION:activity-->
 
 ## 📦 Things I've built
