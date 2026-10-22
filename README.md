@@ -31,7 +31,7 @@ I'm a software engineer based in **Greece** 🇬🇷, working on energy analytic
 ## 📈 Recent activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#14546](https://github.com/diegosouzapw/OmniRoute/pull/14546) in [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute)
+1. 🎉 Merged PR [#14546](https://github.com/cheaper-inference/OmniRoute/pull/14546) in [cheaper-inference/OmniRoute](https://github.com/cheaper-inference/OmniRoute)
 2. 🗣 Commented on [#14546](https://github.com/diegosouzapw/OmniRoute/pull/14546#issuecomment-5799793662) in [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute)
 3. 🗣 Commented on [#14546](https://github.com/diegosouzapw/OmniRoute/pull/14546#issuecomment-5782933086) in [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute)
 4. 🗣 Commented on [#14546](https://github.com/diegosouzapw/OmniRoute/pull/14546#issuecomment-5782162048) in [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute)
