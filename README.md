@@ -31,9 +31,9 @@ I'm a software engineer based in **Greece** 🇬🇷, working on energy analytic
 ## 📈 Recent activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#9947](https://github.com/rectorphp/rector/issues/9947) in [rectorphp/rector](https://github.com/rectorphp/rector)
-2. 🎉 Merged PR [#14546](https://github.com/cheaper-inference/OmniRoute/pull/14546) in [cheaper-inference/OmniRoute](https://github.com/cheaper-inference/OmniRoute)
-3. 🗣 Commented on [#14546](https://github.com/diegosouzapw/OmniRoute/pull/14546#issuecomment-5782933086) in [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute)
+1. 💪 Opened PR [#60](https://github.com/timacdonald/log-fake/pull/60) in [timacdonald/log-fake](https://github.com/timacdonald/log-fake)
+2. ❗ Opened issue [#9947](https://github.com/rectorphp/rector/issues/9947) in [rectorphp/rector](https://github.com/rectorphp/rector)
+3. 🎉 Merged PR [#14546](https://github.com/cheaper-inference/OmniRoute/pull/14546) in [cheaper-inference/OmniRoute](https://github.com/cheaper-inference/OmniRoute)
 4. 🗣 Commented on [#14546](https://github.com/diegosouzapw/OmniRoute/pull/14546#issuecomment-5782162048) in [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute)
 5. 🗣 Commented on [#12970](https://github.com/diegosouzapw/OmniRoute/pull/12970#issuecomment-5584208592) in [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute)
 <!--END_SECTION:activity-->
